@@ -1,0 +1,12 @@
+Logfile initialized
+[INFO] logfile = /Users/indianic/Documents/Titanium_Studio_Workspace/Contacts Demo/build.log
+[DEBUG] /Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.1.2.GA/android/builder.py emulator Contacts Demo /Volumes/DATA/Androidz/android-sdk-mac_86 /Users/indianic/Documents/Titanium_Studio_Workspace/Contacts Demo com.con.com 35 HVGA armeabi-v7a 
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Volumes/DATA/Androidz/android-sdk-mac_86/tools/emulator
+[DEBUG] SDCard: /Users/indianic/.titanium/android2.sdcard
+[DEBUG] AVD ID: 35
+[DEBUG] AVD Skin: HVGA
+[DEBUG] AVD ABI: armeabi-v7a
+[DEBUG] SDK: /Volumes/DATA/Androidz/android-sdk-mac_86
+[DEBUG] /Volumes/DATA/Androidz/android-sdk-mac_86/tools/emulator -avd titanium_35_HVGA -port 5560 -sdcard /Users/indianic/.titanium/titanium_35_HVGA.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[INFO] Android Emulator has exited
